@@ -1,7 +1,3 @@
-Here's a draft of a README file for your project, which includes two game levels: "Skyland" and "Atlantis". The README will outline the project, its setup, how to play, and the game features:
-
----
-
 # Skyland and Atlantis Adventure Games
 
 ## Overview
